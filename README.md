@@ -46,12 +46,19 @@ pip install flask
 
 ```bash
 python app.py
+```
 
 By default, the app runs at:
+
 📍 http://127.0.0.1:5000
 
-📄 License
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/b598cfc6-4819-471f-ad37-6bda26fc84c2" />
+
+📄 ###License
+
 This project is licensed under the MIT License.
 
+
 🙋‍♂️ Author
+
 Shreya Khanduri Bhatt
